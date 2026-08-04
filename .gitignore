@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+.DS_Store
+
+# Generated and large local artifacts
+/clean/
+/poster/
+/reports/
+*.duckdb
+*.pkl
