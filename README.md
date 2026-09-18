@@ -1,12 +1,15 @@
-# How NERSC Connects
+# How the NERSC User Community Connects
 
-*Reproducibility artifact for the SC 2026 poster "How NERSC Connects."*
+*Reproducibility artifact for the SC 2026 poster "How the NERSC User Community Connects."*
 
-How NERSC Connects over time is a Python and Jupyter workflow for studying how
+How the NERSC user community connects over time is a Python and Jupyter workflow for studying how
 NERSC allocation projects, users, and science programs connect across years. It
 builds allocation tables, user-project bipartite graphs, and projected
 project graphs, validation reports, and a local DuckDB database for exploratory
 network analysis.
+
+<img width="803" height="698" alt="image" src="https://github.com/user-attachments/assets/787ea07b-3dbe-4c71-a442-ae6db93569f1" />
+
 
 ## Features
 
