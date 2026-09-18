@@ -1,6 +1,6 @@
 # How the NERSC User Community Connects
 
-*Reproducibility artifact for the SC 2026 poster "How the NERSC User Community Connects."*
+<img width="803" height="698" alt="image" src="https://github.com/user-attachments/assets/787ea07b-3dbe-4c71-a442-ae6db93569f1" />
 
 How the NERSC user community connects over time is a Python and Jupyter workflow for studying how
 NERSC allocation projects, users, and science programs connect across years. It
@@ -8,8 +8,9 @@ builds allocation tables, user-project bipartite graphs, and projected
 project graphs, validation reports, and a local DuckDB database for exploratory
 network analysis.
 
-<img width="803" height="698" alt="image" src="https://github.com/user-attachments/assets/787ea07b-3dbe-4c71-a442-ae6db93569f1" />
+*Reproducibility artifact for the SC 2026 poster "How the NERSC User Community Connects."*
 
+[![▶ Watch the Overview Video](https://img.youtube.com/vi/bNGJY8Dt05o/hqdefault.jpg)](https://youtu.be/bNGJY8Dt05o)
 
 ## Features
 
@@ -18,6 +19,7 @@ network analysis.
 - Data validation: reports duplicate keys, null-rate drift, user-name format checks, and cross-table coverage.
 - Local analytics database: materializes the tables, feature tables, per-project lead-user history, and SQL views in DuckDB.
 - Notebook analysis: includes notebooks for quickstart queries, database features, community structure, bridge projects, and liaison analysis.
+
 
 ## Repository Layout
 
