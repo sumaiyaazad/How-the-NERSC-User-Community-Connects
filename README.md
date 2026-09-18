@@ -10,7 +10,6 @@ network analysis.
 
 *Reproducibility artifact for the SC 2026 poster "How the NERSC User Community Connects."*
 
-[![▶ Watch the Overview Video](https://img.youtube.com/vi/bNGJY8Dt05o/hqdefault.jpg)](https://youtu.be/bNGJY8Dt05o)
 
 ## Features
 
